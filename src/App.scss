@@ -1,0 +1,43 @@
+.table {
+	border: 3px solid DarkSlateBlue;
+	margin: auto;
+	border-collapse: collapse;
+	background: Khaki;
+};
+
+.string {
+	border: 2px solid DarkSlateBlue;
+	height: 45px;
+	padding-right: 50px;
+	font-size: 13px;
+	text-decoration: bold;
+	color: red;
+	padding-left: 10px;
+};
+
+.number {
+	border: 2px solid DarkSlateBlue;
+	height: 45px;
+	text-align: right;
+	color: red;
+	padding-right: 10px;
+	font-size: 13px;
+};
+
+.header {
+	border: 2px solid DarkSlateBlue;
+	height: 45px;
+	padding-right: 30px;
+	font-size: 13px;
+	text-decoration: bold;
+	color: red;
+	padding-left: 50px;
+	background: Khaki;
+};
+
+.title {
+	text-align: center;
+	text-decoration: underline;
+	font-size: 25px;
+	text-shadow: 2px 2px 2px Maroon;
+};
